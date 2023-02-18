@@ -15,7 +15,7 @@ This project as to :
 The goal of this project is to summarize all the knowledge learned during the week.
 
 
-<img src="ReadMe_Files/PoC.png" width=10% height=10%>
+<img src="ReadMe_Files/PoC.png" width=20% height=20%>
 
 
 ## What is Slime Dungeon ?
@@ -27,5 +27,4 @@ For this, there are several ways to xp his slime :
 2. Pay ^^
 
 Once our slime is at the maximum level, we can split it up in two little slimes (Lvl 2).
-
 <img src="ReadMe_Files/glhf.png" width=30% height=30%>
