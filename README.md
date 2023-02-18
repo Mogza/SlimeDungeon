@@ -1,5 +1,5 @@
 # SlimeDungeon
-
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fslime-rancher-fanon.fandom.com%2Fwiki%2FGum_slime&psig=AOvVaw185OmtuGrOuBijZclOH34A&ust=1676800644438000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJid26znnv0CFQAAAAAdAAAAABAE)
 ## Who are we ?
 We are 3 first year students at Epitech Nancy : Jonathan Palta, Aloïs Canot and Maël-Mamadou Diagne.
 
