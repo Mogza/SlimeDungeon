@@ -12,6 +12,8 @@ This project as to :
 - Realize with Smart Contracts 
 - And do a front end if we have the time
 
+<img src="ReadMe_Files/PoC.png" width="230" height="230">
+
 The goal of this project is to summarize all the knowledge learned during the week.
 
 ## What is Slime Dungeon ?
