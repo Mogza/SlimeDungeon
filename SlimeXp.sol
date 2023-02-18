@@ -19,4 +19,9 @@ contract SlimeXp is SlimeGame{
         require(TwoXpBottles[msg.sender] >= neededXpBottles, "You need an xp bottle to do this.");
         targetSlime.level += 2;
     }
+
+    function Pay1Xp(Slime memory slime) external payable {
+        require(msg.value == LvlUpFee);
+        slime.level += 1;
+    }
 }
