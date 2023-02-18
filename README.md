@@ -12,9 +12,11 @@ This project as to :
 - Realize with Smart Contracts 
 - And do a front end if we have the time
 
+The goal of this project is to summarize all the knowledge learned during the week.
+
+
 <img src="ReadMe_Files/PoC.png">
 
-The goal of this project is to summarize all the knowledge learned during the week.
 
 ## What is Slime Dungeon ?
 Slime dungeon is a game (in the style of a pay to earn) in which the user receives a slime upon arrival.
