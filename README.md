@@ -1,5 +1,5 @@
 # SlimeDungeon
-![Slime](ReadMe_Files/SlimeGumSR2.png)
+<img src="ReadMe_Files/SlimeGumSR2.png" width="230" height="230">
 
 ## Who are we ?
 We are 3 first year students at Epitech Nancy : Jonathan Palta, Aloïs Canot and Maël-Mamadou Diagne.
