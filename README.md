@@ -15,7 +15,7 @@ This project as to :
 The goal of this project is to summarize all the knowledge learned during the week.
 
 
-<img src="ReadMe_Files/PoC.png" width=50% height=50%>
+<img src="ReadMe_Files/PoC.png" width=10% height=10%>
 
 
 ## What is Slime Dungeon ?
